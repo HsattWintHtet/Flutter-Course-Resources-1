@@ -10,6 +10,5 @@ Flutter Course Resources (https://www.appbrewery.co)
 [3) micard](https://github.com/jyshine/Flutter_micard)
 <br>
 [4) dicee](https://github.com/jyshine/Flutter_dicee)
-
 <br>
 [5) magic-8-ball](https://github.com/jyshine/Flutter_05_magic-8-ball)
