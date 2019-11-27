@@ -2,6 +2,7 @@
 Flutter Course Resources (https://www.appbrewery.co) 
 
 <h2>Basic Projects</h2>
+<br>
 [1) magic-8-ball](https://github.com/jyshine/Flutter_05_magic-8-ball)
 <br>
 [2) i-am-rich](https://github.com/jyshine/Flutter_05_magic-8-ball)
