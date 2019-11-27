@@ -1,5 +1,4 @@
 # Flutter-Course-Resources
-<br>
 Flutter Course Resources (https://www.appbrewery.co) 
 
 # Basic Projects
