@@ -12,3 +12,5 @@ Flutter Course Resources (https://www.appbrewery.co)
 [4) magic-8-ball](https://github.com/jyshine/Flutter_05_magic-8-ball)
 <br>
 [5) Xylophone](https://github.com/jyshine/Flutter_Xylophone)
+<br>
+[6) Quizzler](https://github.com/jyshine/Flutter_Quizzler)
