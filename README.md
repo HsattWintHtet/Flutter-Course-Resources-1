@@ -14,3 +14,5 @@ Flutter Course Resources (https://www.appbrewery.co)
 [5) Xylophone](https://github.com/jyshine/Flutter_Xylophone)
 <br>
 [6) Quizzler](https://github.com/jyshine/Flutter_Quizzler)
+<br>
+[7) Destini](https://github.com/jyshine/Flutter_Destini)
