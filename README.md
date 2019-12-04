@@ -18,3 +18,5 @@ Flutter Course Resources (https://www.appbrewery.co)
 [7) Destini](https://github.com/jyshine/Flutter_Destini)
 <br>
 [8) BMI-Calculator](https://github.com/jyshine/Flutter_bmi-calculator)
+<br>
+[9) Navigation-damo](https://github.com/jyshine/Flutter_Navigation-Demo)
